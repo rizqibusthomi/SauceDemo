@@ -20,30 +20,7 @@ Follow the steps below to clone and run the project locally.
 
 ## 🌀 Clone the Repository
 
-```bash
-git clone https://github.com/rizqibusthomi/saucedemo.git
-cd saucedemo```
-
----
-
-
-## 🌀 Clone the Repository
-
-```bash
 git clone https://github.com/rizqibusthomi/saucedemo.git
 cd saucedemo
 
 ---
-
-## 📥 Install Dependencies
-```npm install
-
----
-
-## 🧪 Run the Tests
-```npx cypress open
-
-Run Tests in Headless Mode (CLI)
-
-```npx cypress run
-
