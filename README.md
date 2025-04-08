@@ -20,6 +20,7 @@ Follow the steps below to clone and run the project locally.
 
 ## 🌀 Clone the Repository
 
+```bash
 git clone https://github.com/rizqibusthomi/saucedemo.git
 cd saucedemo
 
