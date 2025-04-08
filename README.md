@@ -23,5 +23,6 @@ Follow the steps below to clone and run the project locally.
 ```bash
 git clone https://github.com/rizqibusthomi/saucedemo.git
 cd saucedemo
+```
 
 ---
